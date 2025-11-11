@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/division.org.ico",
     "slug": "division",
     "status": "down",
-    "uptime": "97.36%",
-    "uptimeDay": "94.18%",
-    "uptimeWeek": "97.36%",
-    "uptimeMonth": "97.36%",
-    "uptimeYear": "97.36%",
-    "time": 343,
-    "timeDay": 400,
-    "timeWeek": 343,
-    "timeMonth": 343,
-    "timeYear": 343,
+    "uptime": "93.11%",
+    "uptimeDay": "84.13%",
+    "uptimeWeek": "93.11%",
+    "uptimeMonth": "93.11%",
+    "uptimeYear": "93.11%",
+    "time": 2305,
+    "timeDay": 10182,
+    "timeWeek": 2305,
+    "timeMonth": 2305,
+    "timeYear": 2305,
     "dailyMinutesDown": {
-      "2025-11-11": 84
+      "2025-11-11": 229
     }
   }
 ]
