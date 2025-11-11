@@ -2,19 +2,21 @@
   {
     "name": "Division",
     "url": "https://division.org",
-    "icon": "https://icons.duckduckgo.com/ip3/division.org.ico",
+    "icon": "https://en.wikipedia.org/favicon.ico",
     "slug": "division",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "98.40%",
+    "uptimeDay": "96.52%",
+    "uptimeWeek": "98.40%",
+    "uptimeMonth": "98.40%",
+    "uptimeYear": "98.40%",
     "time": 343,
     "timeDay": 400,
     "timeWeek": 343,
     "timeMonth": 343,
     "timeYear": 343,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-11": 50
+    }
   }
 ]
