@@ -6,8 +6,6 @@ sites:
   - name: Division
     url: https://division.org
     # icon: https://en.wikipedia.org/favicon.ico
-    type: globalping
-    location: from north america --limit 2
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
