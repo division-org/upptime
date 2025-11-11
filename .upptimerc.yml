@@ -5,6 +5,9 @@ repo: upptime # The name of this repository
 sites:
   - name: Division
     url: https://division.org
+    icon: https://en.wikipedia.org/favicon.ico
+    type: globalping
+    location: from north america --limit 2
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -21,7 +24,7 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
-  theme: night
+  theme: dark
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
