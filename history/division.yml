@@ -1,7 +1,7 @@
 url: https://division.org
-status: up
-code: 200
-responseTime: 307
-lastUpdated: 2025-11-18T14:44:34.064Z
+status: down
+code: 500
+responseTime: 202
+lastUpdated: 2025-11-18T14:56:20.031Z
 startTime: 2025-11-09T00:11:55.736Z
 generator: Upptime <https://github.com/upptime/upptime>
